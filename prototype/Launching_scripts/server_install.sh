@@ -16,7 +16,7 @@ fi
 echo "========== Prerequisites Install =========="
 
 login=$1
-source_dir=${GOSSIPSUB_SOURCE_DIR:-"/home/${login}/PANDAS/prototype"}
+source_dir=${GOSSIPSUB_SOURCE_DIR:-"/home/${login}/GossipSub-Minimal/prototype"}
 go_version=${GOSSIPSUB_GO_VERSION:-"1.21.6"}
 go_tarball="go${go_version}.linux-amd64.tar.gz"
 go_url="https://go.dev/dl/${go_tarball}"

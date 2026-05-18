@@ -27,5 +27,7 @@ go build -o libp2p-das .
 Use the launch notes in:
 
 ```sh
-prototype/Launching_scripts/grid5000_smoke_test_gossipsub.md
+prototype/Launching_scripts/grid5000_smoke_test_gossipsub_20.md
+prototype/Launching_scripts/grid5000_smoke_test_gossipsub_50.md
+prototype/Launching_scripts/grid5000_smoke_test_gossipsub_100.md
 ```
